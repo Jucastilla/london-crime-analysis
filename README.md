@@ -179,6 +179,6 @@ Versão em PDF do dashboard desenvolvido no Power BI, contendo as três páginas
 
 ### Arquivo Power BI
 
-📈 [Acessar arquivo do Power BI (.pbix)](COLE_AQUI_O_LINK_DO_GOOGLE_DRIVE)
+📈 [Acessar arquivo do Power BI (.pbix)](https://drive.google.com/file/d/1VsxqpNu3OhD3u4wp1a5LekzEBE7hmNSf/view?usp=drive_link)
 
 Arquivo original do projeto desenvolvido no Power BI, disponibilizado externamente devido ao tamanho do arquivo.
